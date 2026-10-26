@@ -21,6 +21,41 @@ Analysis of **7,043 subscriber accounts** ($456k baseline MRR) from the IBM Telc
 
 **So what:** Stop offering standalone unassisted Fiber Optic plans; automatically bundle 90 days of complimentary Tech Support with Fiber installations; launch automated customer success check-ins at Day 7 and Day 21 to navigate the onboarding cliff.
 
+## 📖 Business Storytelling & Problem Statement
+
+### 1. Tình huống kích hoạt (The Trigger Scenario)
+Trong phiên họp điều hành chiến lược quý, **Hội đồng Quản trị** chất vấn gay gắt **Giám đốc Thương mại (CCO)** và **Giám đốc Dịch vụ Khách hàng (Head of Customer Service)**:
+> *"Mỗi tháng công ty chúng ta đang để mất đứt **$139,131 USD doanh thu định kỳ hàng tháng (MRR)** do khách hàng cắt hợp đồng — tương đương với khoản bốc hơi hơn $1.66 triệu USD mỗi năm! Tỷ lệ Churn toàn mạng chạm mốc báo động 26.54%. Tại sao khách hàng ồ ạt rời bỏ mạng lưới của chúng ta?"*
+
+Để ngăn chặn chảy máu doanh thu, CCO đề xuất chi ngân sách lớn thực hiện chiến dịch giảm giá cước 10% trên toàn bộ các gói thuê bao Internet cáp quang Fiber Optic. Trước khi phê duyệt khoản giảm giá khổng lồ này, Tổng Giám đốc yêu cầu Data Analyst phân tích toàn diện tập dữ liệu 7,043 thuê bao để tìm ra sự thật khách quan.
+
+### 2. Xung đột nghiệp vụ & Bẫy ngộ nhận (The Core Problem & Conflict)
+* **Xung đột phòng ban:**
+  * **Phòng Thương mại (Sales & Commercial):** Cho rằng cước phí cáp quang ($70 – $100/tháng) đắt hơn các đối thủ cạnh tranh, dẫn đến việc khách hàng chuyển mạng. Họ kiên quyết bảo vệ quan điểm: *"Chỉ có hạ giá cước trên diện rộng mới cứu được tỷ lệ Churn."*
+  * **Phòng Hỗ trợ Kỹ thuật (Tech Support):** Khẳng định chất lượng đường truyền cáp quang đạt tốc độ chuẩn cam kết, khách hàng rời đi là do xu hướng giới trẻ thích dùng hợp đồng linh hoạt từng tháng (Month-to-Month) chứ không phải do sự cố kỹ thuật.
+  * **Phòng Tài chính (Finance):** Báo động nếu giảm 10% cước Fiber Optic toàn diện, doanh thu sẽ lập tức bốc hơi hơn $30,000 MRR mỗi tháng ngay cả với những khách hàng vốn dĩ không có ý định rời mạng!
+* **Bẫy ngộ nhận (False Intuition):** Ban điều hành mặc định rằng *"Khách hàng rời bỏ dịch vụ viễn thông chủ yếu là vì giá cước đắt; chỉ cần giảm giá cước là khách hàng sẽ ở lại"*.
+
+### 3. Cung bậc câu chuyện dữ liệu (The Data Story Arc)
+* **Hồi 1 - Ảo tưởng ban đầu (The False Comfort):** Tổng doanh thu định kỳ đạt $456k MRR/tháng, thời gian gắn bó bình quân của thuê bao là 32.4 tháng — các chỉ số trung bình tổng thể tạo cảm giác tập khách hàng khá trung thành và ổn định.
+* **Hồi 2 - Vết nứt xuất hiện (The Investigation):**
+  * Khi phân tích tỷ lệ rời mạng theo các dải thời gian gắn bó (Tenure Cohort Analysis), dữ liệu làm lộ ra một **vực thẳm Onboarding kinh hoàng**: Có tới **50.8% tổng số ca rời mạng xảy ra ngay trong 6 tháng đầu tiên**!
+  * Tỷ lệ Churn của nhóm thuê bao mới (0–6 tháng) lên tới **53.1%**. Tuy nhiên, nếu khách hàng vượt qua được cột mốc 24 tháng, tỷ lệ Churn giảm ngoạn mục xuống dưới 10%.
+* **Hồi 3 - Điểm bùng nổ "Aha!" (The Naked Truth):**
+  * Khi đào sâu ma trận tương tác giữa gói cước và dịch vụ gia tăng, Data Analyst phát hiện ra sự thật chấn động:
+    * Thuê bao sử dụng Cáp quang (Fiber Optic) nhưng **KHÔNG có gói Hỗ trợ Kỹ thuật (Tech Support)** có tỷ lệ Churn kỷ lục: **49.38%**!
+    * Ngược lại, cũng là thuê bao dùng Fiber Optic đó, nếu **CÓ gói Tech Support đi kèm**, tỷ lệ Churn lập tức giảm hơn một nửa xuống chỉ còn **22.78%**!
+  * **Sự thật thức tỉnh:** Khách hàng không hề rời bỏ vì tốc độ mạng chậm hay giá cước $70 đắt. Họ rời bỏ vì khi chuyển sang công nghệ cáp quang mới, họ gặp trục trặc kỹ thuật ban đầu (cấu hình Router, vùng phủ sóng Wi-Fi trong nhà, tường lửa) mà không có sự đồng hành của kỹ thuật viên, dẫn đến bức xúc và hủy hợp đồng ngay trong tháng đầu!
+  * Mô hình kinh tế lượng Logistic Regression (kiểm soát đa biến) chứng minh: Hợp đồng từng tháng (Month-to-Month) làm tăng nguy cơ churn gấp **2.90 lần** (Odds Ratio = 2.90, $p < 0.001$), trong khi phương thức thanh toán Electronic Check có tỷ lệ churn lên tới **45.3%** do trải nghiệm nạp tiền thủ công phiền phức.
+* **Hồi 4 - Tháo gỡ nút thắt (The Strategic Resolution):**
+  1. **Bác bỏ đề xuất giảm giá cước:** Tiết kiệm ngay hơn $30,000 MRR không bị cắt giảm lãng phí.
+  2. **Gói giải pháp "Fiber Onboarding Shield":** Tự động tặng kèm 90 ngày hỗ trợ kỹ thuật chuyên biệt (Tech Support) miễn phí cho 100% hợp đồng lắp mới cáp quang.
+  3. **Quy trình Chăm sóc chủ động Day-7 & Day-21:** Tổng đài kỹ thuật chủ động gọi kiểm tra chất lượng kết nối và tối ưu vị trí đặt Router cho khách hàng mới trong tháng đầu tiên.
+  4. **Khuyến mãi chuyển đổi hợp đồng:** Tặng ưu đãi giảm 50% cước tháng thứ 12 cho thuê bao Month-to-Month đồng ý ký hợp đồng cam kết 1 năm và kích hoạt tính năng trừ tiền tự động qua Thẻ tín dụng (Auto Credit Card).
+* **Hồi 5 - Tác động kinh doanh (The Business Impact):**
+  * Cứu vãn ước tính **$45,000 – $60,000 MRR mỗi tháng** (tương đương hơn nửa triệu USD doanh thu định kỳ hàng năm).
+  * Kéo tỷ lệ rời mạng của khách hàng mới từ **53.1% xuống dưới 32%** với chi phí vận hành gần như bằng 0.
+
 ## Architecture & Method
 
 1. **Model** (`sql/00_model.sql`, DuckDB): Grain is 1 row per subscriber. Handles edge-case blank strings in `TotalCharges` for zero-tenure accounts (`tenure = 0`), builds tenure cohort bands, and constructs service bundle density counts.
