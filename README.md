@@ -2,6 +2,8 @@
 
 Analysis of **7,043 subscriber accounts** ($456k baseline MRR) from the IBM Telco Customer Churn dataset. It moves from business diagnosis, cleans missing billing data in DuckDB SQL, models subscriber retention hazard using Logistic Regression Odds Ratios, and delivers a [one-page decision memo](docs/decision_memo.md) and an interactive dashboard.
 
+![Dashboard](reports/figures/00_dashboard_preview.png)
+
 ## Executive Answer
 
 **Churn is concentrated in the onboarding window and high-speed fiber lines without technical support.** Overall churn stands at **26.54%**, costing **$139,131 in lost MRR every month** (30.5% of gross revenue). 
