@@ -1,0 +1,52 @@
+// Power BI DAX Measures for Telco Customer Churn & Retention Model
+// Relationships (Single direction):
+// fact_subscriptions[customer_id]  -> dim_customer_demographics[customer_id]
+// fact_subscriptions[plan_id]      -> dim_service_plan[plan_id]
+// fact_subscriptions[contract_id]  -> dim_contract[contract_id]
+
+Total Subscribers = COUNTROWS ( fact_subscriptions )
+
+Churned Subscribers = 
+CALCULATE (
+    COUNTROWS ( fact_subscriptions ),
+    fact_subscriptions[is_churn] = TRUE ()
+)
+
+Churn Rate % = 
+DIVIDE ( [Churned Subscribers], [Total Subscribers], 0 )
+
+Total MRR = 
+SUM ( fact_subscriptions[monthly_charges] )
+
+Lost MRR = 
+CALCULATE (
+    SUM ( fact_subscriptions[monthly_charges] ),
+    fact_subscriptions[is_churn] = TRUE ()
+)
+
+Lost MRR % = 
+DIVIDE ( [Lost MRR], [Total MRR], 0 )
+
+Average Monthly ARPU = 
+DIVIDE ( [Total MRR], [Total Subscribers], 0 )
+
+// Long-term Contract Lock-in Ratio
+Contract Lockin Ratio % = 
+DIVIDE (
+    CALCULATE ( COUNTROWS ( fact_subscriptions ), dim_contract[contract_type] IN { "One year", "Two year" } ),
+    [Total Subscribers],
+    0
+)
+
+// Excess Churn vs National Baseline
+Baseline Churn Rate = 
+CALCULATE (
+    [Churn Rate %],
+    REMOVEFILTERS ( dim_contract ),
+    REMOVEFILTERS ( dim_service_plan )
+)
+
+Excess Churn Subscribers = 
+VAR SliceSubs = [Total Subscribers]
+VAR ExpectedChurn = SliceSubs * [Baseline Churn Rate]
+RETURN MAX ( 0, [Churned Subscribers] - ExpectedChurn )

@@ -1,0 +1,323 @@
+plan_id,internet_service,multiple_lines,online_security,online_backup,device_protection,tech_support,streaming_tv,streaming_movies
+92579e348b7b2b5b40df2c641eb6f3a3,DSL,No,No,No,No,No,Yes,Yes
+3fe33b2b721303116778b848ebfba888,Fiber optic,No,No,No,No,Yes,No,No
+6cea445949de15c3d4a082b5b7444b89,Fiber optic,Yes,Yes,No,No,No,No,No
+1b95cec105ba105b2e0fc9312e0f4570,Fiber optic,Yes,Yes,Yes,No,No,Yes,Yes
+1a3a2caacf5b0f1d18e768585382685f,Fiber optic,No,Yes,No,No,No,No,No
+53173f5360f949d41dc4ab124d72646d,DSL,No phone service,Yes,Yes,Yes,Yes,No,No
+2a5b803467fba27030c562cece7a2db2,DSL,Yes,No,No,Yes,No,No,Yes
+6e37d63b43b84db8964abc103515dc1e,Fiber optic,No,No,Yes,No,No,Yes,No
+89831ede7dacc33b54f5f0eaf8c2c9d1,Fiber optic,No,Yes,No,Yes,No,Yes,No
+8fe882a93f7a9eb862f7f19bbf26940a,DSL,Yes,No,No,Yes,Yes,Yes,No
+b56cc01e93ee62c9adc39504cdf9baa7,DSL,No,No,Yes,No,Yes,No,Yes
+2d2ed3a429bdfa92255ed66fe15a466f,Fiber optic,Yes,Yes,No,Yes,Yes,No,Yes
+4cc5e3d0c91e923a7531126a8666a3a4,DSL,Yes,No,No,No,Yes,No,No
+3711add4ae092c796077f7a1a810cbba,DSL,Yes,No,No,No,No,Yes,No
+61574aeaa6dcf991dfa4deec6b096683,Fiber optic,No,Yes,No,No,Yes,No,No
+830bf402d841addd58b6ee62d7f21cf6,Fiber optic,No,No,Yes,No,Yes,No,Yes
+89f407fa14e12b126f2ce060028c0776,DSL,Yes,No,Yes,No,Yes,No,Yes
+980adb1b1fb5d87dc9bd89a2f046e6bb,Fiber optic,Yes,No,Yes,Yes,No,Yes,Yes
+4045e758696f9741cdff1d22d1e79b3b,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,No
+85d7b7693ca7bf79b86caee76d34feca,Fiber optic,No,No,No,Yes,No,Yes,Yes
+4803285b8a6a3d7b91303f60edfc4f81,DSL,No,Yes,Yes,Yes,Yes,No,No
+ca00f52d7ce9c0ddc7a7f3ab9fbc1a3e,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes
+92be0a583fa5f061e6b8568d20ba7c31,DSL,No phone service,No,No,No,Yes,No,No
+a6d1611cd5683345e1807dad00788ebf,DSL,Yes,Yes,Yes,No,Yes,Yes,Yes
+213654ca39705ea9e6943fcec9c9b4a4,Fiber optic,No,Yes,No,No,No,No,Yes
+afaf57ef466ef2a3f7d26b65b6dacdff,DSL,No,Yes,Yes,No,No,No,Yes
+afe52c0b7882c3a64ee660f6155eadc1,DSL,Yes,No,No,Yes,No,Yes,Yes
+3273188fbc1e25b0b00ac3364af5de23,DSL,No phone service,No,No,No,No,Yes,Yes
+e2c1a3f5dd3e6fe772bc1fc9040474c2,Fiber optic,Yes,Yes,No,Yes,No,Yes,No
+0fd194190260b45a287a02e6f38372d7,Fiber optic,No,No,Yes,No,No,No,Yes
+398f7c2632e1e2215bb95d2dda8e827c,DSL,No,No,Yes,No,No,Yes,Yes
+05a6b7456ac7432ccf5d76a1e985735f,DSL,No,Yes,Yes,No,No,Yes,No
+9e2773ff50309eaeb5f1915f2c570d4a,Fiber optic,No,Yes,Yes,No,No,No,No
+c694f5e947361494c62fe23d789b974b,DSL,No phone service,No,No,Yes,No,Yes,Yes
+61904c1d50e38fcdb678d8c69a78c55e,Fiber optic,No,Yes,Yes,Yes,No,Yes,Yes
+40b1c7d118b0db0306997f22294d2ae7,DSL,No phone service,Yes,No,No,Yes,No,Yes
+5ce5701d16010700d84bb5f6bb8b1781,Fiber optic,Yes,Yes,No,No,Yes,Yes,No
+198a3fcac559bff2a424c522a4c91d05,Fiber optic,No,No,Yes,No,Yes,Yes,No
+dcb55928de3df1c6cf037cbc8b4ab7e5,DSL,Yes,No,No,Yes,No,No,No
+fcb5e0cfd71a977a49581f5976f8bbe4,DSL,No,Yes,Yes,Yes,No,Yes,No
+64d7b8d873c8550f54fad6037b5a4bf2,Fiber optic,Yes,Yes,Yes,No,Yes,No,Yes
+5ecd9c0fccd6f7962fcd44f3e8cb2d99,DSL,No phone service,No,Yes,No,Yes,Yes,No
+7cb795d9564053ac7c42430e0bbd3b8b,Fiber optic,Yes,No,Yes,No,No,Yes,No
+8ee056d32b2f1e436747f80c953207ff,Fiber optic,No,No,No,Yes,No,No,No
+ddf178878e1348949a52533591da1cb9,DSL,Yes,Yes,Yes,No,No,Yes,No
+8c7319452dbf874fb272ed3511004cab,DSL,No,No,No,No,Yes,No,No
+c27ab365775153117f155f7157253ef5,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Yes
+0e2f2f9a006ebe3496d1b4f2a411bd33,DSL,Yes,Yes,Yes,No,Yes,No,No
+fb2cca6ee6d059b2cba073428f01ef72,Fiber optic,No,No,Yes,Yes,No,Yes,No
+eac38101409ab5c0786a14689bbffad6,Fiber optic,No,Yes,Yes,No,No,Yes,No
+600c19cc76b622611cf5d1a94e3751b9,Fiber optic,No,No,Yes,No,Yes,No,No
+aaa7bae0b1b2810e0b882b993d820dc9,Fiber optic,Yes,No,No,No,Yes,No,Yes
+23273e16fa32ad6b8fda0b2c50383a67,DSL,No,Yes,No,No,Yes,Yes,Yes
+e2854d7d8a118ea75f1e4d4f5522f0f9,DSL,No phone service,No,Yes,Yes,Yes,Yes,Yes
+fe109b3bb912ae9556d25a1007fdf94e,DSL,Yes,Yes,No,No,No,No,Yes
+f5e98b06f82e686e15be1edb782de067,Fiber optic,Yes,No,No,Yes,No,Yes,No
+e5e7b7df15e99422d0e2bbca2cc080d3,DSL,No,No,No,Yes,No,No,Yes
+1c888757237f2345a5cf0c845df3c870,DSL,Yes,Yes,No,Yes,No,Yes,No
+69b3817e5c2890b89ca0426227d93773,DSL,No,Yes,Yes,No,Yes,No,Yes
+d3a73334c5216f054a098e7707259a28,DSL,No,No,No,No,Yes,Yes,No
+e7615d4dad3020399e89ecf557746651,DSL,No,Yes,No,Yes,No,No,No
+81556c100b76a4cd373cf618acae96c7,DSL,No phone service,Yes,No,Yes,Yes,No,No
+89efa9ca7db3d856a5dcc2f23d809450,DSL,No,Yes,No,No,No,No,No
+5dc25ff93db1470851bdeacd8736fc22,Fiber optic,Yes,No,No,No,No,No,Yes
+36cfa6e33f67259ddfba0d1653f2465c,Fiber optic,No,No,No,No,No,Yes,No
+a879fdc3dff2322b2151ff4dfd1853af,Fiber optic,Yes,No,Yes,No,No,No,No
+f24faa6cf01f76269139dd78d05c2060,No,Yes,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service
+151616e37ba34a2244bd7815d2e3f515,Fiber optic,Yes,No,No,No,No,No,No
+a656463d177e9c58e6746044b7959e73,Fiber optic,Yes,No,Yes,No,Yes,No,No
+9ec6bbe2a56ab2db705eed4f4d3c6323,Fiber optic,No,No,Yes,No,No,Yes,Yes
+26a70e7f11e2eb266788d1129ee7363a,DSL,No,Yes,Yes,Yes,No,No,No
+f5db4b60c0b8126c6f72dcd0e9dc5f24,Fiber optic,No,No,No,No,Yes,Yes,No
+2766297d9fbf1e646ba9dc3ad7109e4a,DSL,No,Yes,No,No,Yes,No,No
+6526055bba02ea0bda9fade79b4ec04a,Fiber optic,Yes,No,Yes,Yes,No,No,Yes
+c5682b8b99c25539ded241b984ae4ab7,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,No
+84ba356cbf4710ad9ea38a36862cb339,DSL,No phone service,Yes,No,No,Yes,Yes,No
+01728019ff132f55b60c76ae68a550cc,DSL,No phone service,No,Yes,No,No,Yes,Yes
+756814936013b8ff15861168342e0d84,Fiber optic,No,No,No,Yes,Yes,No,No
+b613f2dd031ffc2946f2149fe2152ab0,Fiber optic,No,Yes,No,No,No,Yes,Yes
+e39d8960a0f5e66dcce7e9d9cb334b22,DSL,No phone service,Yes,No,Yes,No,Yes,Yes
+8c414b7d341022b650636f3d449faffc,DSL,No phone service,Yes,Yes,No,Yes,Yes,No
+b5c78727f16dfa0eaae6fcb4f36c6ee5,DSL,No phone service,Yes,Yes,Yes,No,No,Yes
+e562089ca9b243ad62220317618833d8,DSL,Yes,No,Yes,No,No,Yes,Yes
+a96bc99c9a04f59c2f32da9c21b20d6a,DSL,Yes,Yes,No,Yes,Yes,No,No
+dfead2a3a4e9feb83ae38dea77b6b1ed,DSL,No,Yes,Yes,No,No,Yes,Yes
+bb0f97aad64f61bd21d6d7a2b6ff4052,Fiber optic,No,No,Yes,Yes,No,No,No
+74c81b7c945db969b56a5221cb78efc5,DSL,No,No,No,No,Yes,Yes,Yes
+5dcc063fe376b305cd9a3e6d4f52228e,Fiber optic,No,Yes,Yes,No,Yes,Yes,No
+c11c9cc8a461a332217c3d27013e842c,Fiber optic,No,Yes,No,No,Yes,Yes,Yes
+3dd07e1b07870f7cfcb118e11f7032d6,DSL,No phone service,Yes,Yes,No,Yes,No,Yes
+338a8832589a83e0f95a711af824ca0e,DSL,No phone service,No,Yes,Yes,Yes,No,No
+d78cde1ab194da1461aa46cd435c3ae7,DSL,Yes,Yes,Yes,Yes,No,Yes,Yes
+c63d369452737768a5b507e80ab78700,DSL,Yes,Yes,Yes,No,No,No,Yes
+c18d6c6971642392bd0c664a41024e25,DSL,No,Yes,No,No,Yes,Yes,No
+4af8cb74b693daf1686de436eaceb55a,DSL,Yes,No,No,Yes,No,Yes,No
+a3497ff73a05869d6dbaa7909e4d170b,Fiber optic,Yes,Yes,No,No,Yes,Yes,Yes
+25d9c793881a5954b10a159e9642c194,Fiber optic,Yes,Yes,No,Yes,Yes,No,No
+7131af02c97323a6985b2ecef23dfda3,Fiber optic,Yes,No,Yes,No,Yes,No,Yes
+4f97fc21db6538080fef574a5ea47798,DSL,Yes,No,No,No,No,Yes,Yes
+2cb9b9aac68a07599132b13ea1545e94,Fiber optic,No,Yes,Yes,No,No,No,Yes
+4958ce19ae90f0c58de2437b0dda64ce,DSL,No phone service,Yes,No,Yes,Yes,No,Yes
+edadd1a53dae8a6899535fca2f6c4eec,Fiber optic,Yes,Yes,No,Yes,No,Yes,Yes
+2f83d61a0314bdf04be0d32b33101d9e,Fiber optic,Yes,No,Yes,No,No,Yes,Yes
+e3368b31f964380038eb63cd27ea7617,Fiber optic,No,No,Yes,Yes,No,Yes,Yes
+d09ac5b86251a624a7b076ebcdba121d,Fiber optic,No,No,No,No,No,No,Yes
+e41d9da53926ae1b6da230dbbfa55455,Fiber optic,Yes,Yes,Yes,Yes,No,No,Yes
+969b06b0a1fb06fcab0a850f856a00dc,Fiber optic,No,No,Yes,Yes,Yes,No,No
+47469388422833bdb1d5e00bc33999b4,DSL,No,No,No,Yes,Yes,Yes,Yes
+de1b87f8b3a69deb616a82f7704d872d,DSL,Yes,Yes,No,Yes,No,Yes,Yes
+27ea951b284e27b3505b50c74085fdaa,DSL,No,Yes,No,No,No,No,Yes
+f6d82eca1ce924adeca2a7f95d4ca9d3,DSL,No,Yes,No,Yes,Yes,No,Yes
+2db2be57bd0b7be9113b151486db277f,DSL,No phone service,Yes,No,Yes,Yes,Yes,No
+cc01c98605b7a39d4efc9a749a2dfc42,Fiber optic,Yes,No,Yes,No,Yes,Yes,No
+97310193a4be00eecdce021ec460fecb,DSL,No,Yes,No,No,No,Yes,Yes
+28d69cdc4cbd18e193fd87877a2b6bbc,Fiber optic,Yes,Yes,Yes,Yes,No,No,No
+cbc7d32fbcb10b58ad98a237fd3497e0,DSL,No phone service,No,No,Yes,No,No,No
+e5cefd56a38c0bd1b6b8fa3bf8f5418d,DSL,No phone service,Yes,No,Yes,Yes,Yes,Yes
+69c9a6c718d64280ff6690fa2ed89c4f,DSL,Yes,No,No,Yes,Yes,Yes,Yes
+484d911ad0aae770faa626c0238b4d1f,DSL,No phone service,No,No,No,Yes,Yes,Yes
+68b33cf2d7753382a4ebd0b0e56cf729,DSL,No,Yes,No,Yes,No,No,Yes
+0e038e0ab32c24c3081e6f32aef9c520,DSL,No phone service,No,Yes,No,Yes,No,No
+462a9944b3f0cecc322ae4c204f6b969,Fiber optic,Yes,Yes,No,No,Yes,No,Yes
+f217a4dc86ed7e4cf0756dd4fffffb91,DSL,No,Yes,Yes,No,Yes,No,No
+51a476dc9f8d91c57ecea8a332143417,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Yes
+5e0ede2ba76288e7e88f53a30d1568f4,DSL,No,No,Yes,No,Yes,Yes,Yes
+8b9e10f17d021f9182fd19ab77eecc88,Fiber optic,No,Yes,No,No,Yes,Yes,No
+ec2c3e57a9b9891a7a4185ead39b0252,Fiber optic,No,No,No,No,Yes,Yes,Yes
+4fccd45dacb54c6ed59156f76560ec7d,DSL,No phone service,No,No,Yes,Yes,Yes,Yes
+8a6bf4d930690f6aef262f4dc61301b0,DSL,Yes,Yes,No,No,Yes,No,No
+c8b9bbfd2b01aa08cfac15147c41287a,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,No
+a943b7b8e84a6408079da7948133fbed,DSL,No,Yes,Yes,No,Yes,Yes,No
+0bc54f9d7b4ee2943073730a321d60e5,Fiber optic,No,Yes,Yes,Yes,No,No,No
+832edd016c49682a86cf7ae0e875c4a1,DSL,No,Yes,Yes,Yes,No,Yes,Yes
+0b738078fe00424d568b451055c7a382,Fiber optic,Yes,No,No,No,Yes,Yes,Yes
+1c22a5193cb31acd6d7b47459faa6b6d,DSL,No,No,Yes,No,Yes,Yes,No
+5a6a39b5c7a4e4613bebf0f95d000639,DSL,Yes,No,No,No,Yes,Yes,Yes
+352642607477a0771777eddd678082ad,DSL,Yes,Yes,No,No,No,Yes,No
+7ff894985e76efd6e2f9af284ffb1671,DSL,No,Yes,Yes,Yes,No,No,Yes
+412bca51506938658bec216535d8cad4,Fiber optic,No,Yes,Yes,Yes,Yes,No,No
+22c6b2a0f1e7b52ded85ffcc45184853,Fiber optic,Yes,No,No,Yes,Yes,Yes,Yes
+4e842f73eb88b5781765e859f650f0f5,DSL,No,No,Yes,No,No,No,No
+dd5095ec3024a6981c635f206f6be5fd,DSL,Yes,Yes,Yes,No,Yes,Yes,No
+15d6c05bdf4645eb97077d8ab51aaffa,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Yes
+2d002b7fe2ce9fe7abbecda023ead864,DSL,No phone service,No,Yes,No,Yes,Yes,Yes
+ec29cb32726e877550036e291f88f739,DSL,No phone service,Yes,Yes,No,No,Yes,Yes
+9457852181ccf34eeffe4ec0372498d2,Fiber optic,Yes,No,No,No,No,Yes,No
+cb15f081746d7dbe6e6c6abe29d5d6f7,DSL,Yes,No,Yes,Yes,Yes,No,Yes
+589fb9677b94f6cebfdd6b148fefc29b,DSL,No phone service,Yes,Yes,Yes,Yes,Yes,No
+7827c0d41ed321629eb19a5e80cc084e,DSL,No,No,No,No,No,Yes,No
+32fa37e6b66a8d83c9266d7b4b247702,Fiber optic,No,No,No,No,No,Yes,Yes
+8f31142736c6dc456bfef9ec94e83ee7,Fiber optic,Yes,No,Yes,Yes,No,Yes,No
+be08b0d8a25a774d3615d3bf4a1d2ec5,DSL,No phone service,Yes,Yes,Yes,Yes,Yes,Yes
+1200af5d9a8a14a64621b77c371ff8cc,DSL,No,Yes,Yes,Yes,Yes,Yes,No
+26a452b95c4e962de9d46c4838f37878,DSL,No,No,Yes,No,No,Yes,No
+7dac030896d7efe585c6a3d8802b653e,DSL,Yes,No,Yes,No,No,No,Yes
+fd36d55054d525fbd4990dfe3a8706e2,Fiber optic,No,No,No,Yes,No,Yes,No
+3edf0037eed0dbb8f11ab4f81a952211,DSL,No phone service,No,Yes,No,No,No,Yes
+80b54b9a64ef03079ae42f8da9840625,DSL,Yes,Yes,Yes,Yes,No,No,Yes
+89bfc39c0d6368e46bb0430c48dfbb37,DSL,No phone service,No,No,Yes,Yes,No,Yes
+53fcdd125fc6586bee131dd75fa7badd,DSL,Yes,No,Yes,No,Yes,Yes,Yes
+c3a4e07a4622c01f26218939870ec12b,Fiber optic,Yes,Yes,No,Yes,No,No,No
+8b3bbd88711ee66c7f493dcd9edb7676,Fiber optic,Yes,No,No,Yes,Yes,No,Yes
+c3ce76664239e7b9ea426144268797f1,Fiber optic,No,Yes,Yes,No,No,Yes,Yes
+4887eacd295a86f7c85d492d9ec7028d,Fiber optic,Yes,No,No,No,No,Yes,Yes
+0b53025b15ba431f101a9aeb6060692d,DSL,No phone service,Yes,Yes,Yes,No,No,No
+b3a4d08d8cd1760902a08b5c9ee8cf57,Fiber optic,Yes,No,No,Yes,No,No,No
+2039ee919bfb3a21ea08a655e867ffe3,DSL,No phone service,No,Yes,Yes,No,No,Yes
+361b1fe9ddf8a7cc7f4506744f482679,DSL,Yes,No,Yes,No,No,No,No
+ab7e537a9344fcd9caf64228dd48e62c,DSL,No,Yes,No,Yes,Yes,Yes,Yes
+19357d9cfae79055648ba6cb31b3e2be,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Yes
+ab134ddfc4437e3fb4003c8f379c32a3,Fiber optic,Yes,No,Yes,No,No,No,Yes
+1d53ac927e0b6c0d3f542dd006019cd8,Fiber optic,Yes,No,Yes,Yes,Yes,No,Yes
+07b38fe67cf17315aaac54b9375fb5a0,Fiber optic,No,No,Yes,Yes,Yes,Yes,No
+a3656cddd5e789db0c99cf1e7aedc33c,DSL,No phone service,No,No,No,Yes,No,Yes
+68581416423c3f89e0c36926b22a6e79,Fiber optic,No,Yes,Yes,Yes,Yes,No,Yes
+193e0d2b16d8332bd2b42ea494c093aa,Fiber optic,No,No,No,Yes,Yes,Yes,No
+261293f39ad29b2544a42f11c306229a,Fiber optic,No,No,No,Yes,No,No,Yes
+bf86ddc62b6cdc789961c862779e5c77,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Yes
+490c0d9cff79de3f2f1f358e801dfd94,DSL,Yes,Yes,Yes,No,No,No,No
+38a5f49bb12dc7e8c26f47405a5635d7,DSL,No,No,Yes,Yes,Yes,No,No
+41ac7a678e9a7496f0ea6f5c0d794e8b,DSL,No phone service,No,Yes,Yes,No,Yes,Yes
+2593ba80b9d5479a6d473504f482c7ed,DSL,No phone service,Yes,Yes,No,No,No,No
+e70e68c463b5ea966750dbc73a1d2c1d,DSL,No phone service,No,Yes,No,Yes,No,Yes
+1d013d36be522968b68348ae4b558182,DSL,No phone service,Yes,Yes,Yes,No,Yes,No
+8038eedf250f99006c6638e2fb78c031,DSL,No,Yes,Yes,No,No,No,No
+78fb24647d8fa8e80d620333783a50ed,DSL,No,No,No,Yes,Yes,No,No
+936c8d4afe01f03a9bfb1c7c5dcd9fea,Fiber optic,Yes,Yes,Yes,No,No,No,No
+673475250d5238b7a036eb64c78a9a9e,DSL,No,No,Yes,Yes,No,No,No
+0d573bc4fbf133d80c49d27a6daa0d36,Fiber optic,Yes,No,Yes,No,Yes,Yes,Yes
+14d44577920a01d7678dd54bf4c24ab9,DSL,No,Yes,Yes,No,Yes,Yes,Yes
+610cd536ae268f9d0210c9b9603e01b1,DSL,No phone service,Yes,Yes,No,Yes,Yes,Yes
+d46bcd13586a76321bebce80154331f0,Fiber optic,Yes,No,No,Yes,No,No,Yes
+1904e8d6bfa7137248e59cf8b7258de9,DSL,No phone service,Yes,No,No,Yes,Yes,Yes
+2bcf687a983c323e4ac64564f4e68bd0,DSL,Yes,Yes,Yes,Yes,Yes,No,No
+6fc4c2041c4d7e9525bb2b0bdf8b1e1b,Fiber optic,Yes,Yes,No,No,No,Yes,No
+e1e25ab35a5aa72ab375cff25af51f54,DSL,No phone service,Yes,Yes,No,No,No,Yes
+833666120d6514220721a41d22e60852,DSL,No phone service,No,Yes,Yes,No,No,No
+0a5d05c2648c6a4c520f337de3a1a2d6,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,No
+d76d85993cdff05ce308d15139b08aef,DSL,Yes,Yes,No,Yes,No,No,No
+1ecb7042cf67ef47c233ebd105b5f214,Fiber optic,Yes,No,No,Yes,No,Yes,Yes
+2521c35716d69c6da509e36dea9ad591,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service
+db708aedf0670556af8d6ed264543d3d,DSL,No phone service,No,No,No,No,Yes,No
+375ad8acf7d69e1318e777c21df10acc,DSL,Yes,Yes,No,Yes,Yes,Yes,Yes
+da3a706c8bb537d1d437214ccb55a3e0,Fiber optic,Yes,No,No,Yes,Yes,Yes,No
+560c1cedc6e9b79d73ecf5cfef928945,DSL,No phone service,No,Yes,No,No,Yes,No
+5acc590768d45ee2555a8f7b5be7aa76,DSL,No,No,No,Yes,No,No,No
+23089342f5e4204cb0999b2c714e5fb0,DSL,No phone service,Yes,No,No,Yes,No,No
+c732ac82803f5e5c9f0a3cbaf30dbcb5,Fiber optic,Yes,Yes,No,No,Yes,No,No
+627186fa11cdfc585d2f854933fbd14c,DSL,No phone service,No,Yes,Yes,Yes,No,Yes
+884353660f02d5e1c5baf6b76fe676e3,DSL,No phone service,Yes,Yes,No,No,Yes,No
+520c0f80b8cecb1a9c93102c45f41ef2,Fiber optic,No,Yes,No,Yes,Yes,Yes,Yes
+844d1da669b02427ba265781e711a56b,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+3b241e28989e70c3fca747e5acba413d,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+8b2e16486fd44f3f3222585aaa46288e,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No
+b87e62d8bff03634e8fa385294ad0408,DSL,No,No,Yes,Yes,No,Yes,No
+99dc94cc8b73d30cabeac9a46fd705a5,Fiber optic,No,Yes,Yes,Yes,No,No,Yes
+a2d1ecaf1e5067e3f1d2dafa2e0c7f0c,Fiber optic,No,Yes,Yes,Yes,No,Yes,No
+50a267d3be317194c4edd1d32489e555,Fiber optic,No,Yes,No,Yes,Yes,No,Yes
+a27292374c05f1810247184b77d83f0f,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Yes
+d209d090dccc63c68994f6f698483029,Fiber optic,Yes,Yes,No,Yes,No,No,Yes
+847fb52424b2dc0bc373ef4f291296e2,DSL,No,No,Yes,Yes,Yes,Yes,No
+81b37991a9a762276d13aeb7ee4d045c,DSL,Yes,No,Yes,Yes,No,No,Yes
+d84806f7a83017e10989f9e88b9868c5,DSL,No phone service,Yes,No,Yes,No,No,No
+3c8aba7fa282621b0e92e5b42019e2b7,DSL,Yes,Yes,No,No,No,Yes,Yes
+b605fc7e51d90fdac24d55e53dbfaf8e,Fiber optic,No,No,Yes,Yes,Yes,No,Yes
+42fa511656b232f51b82ba9db349c22e,Fiber optic,No,No,No,No,Yes,No,Yes
+6c01532e7d2f95898696d9677fd65ad5,DSL,Yes,No,Yes,No,Yes,No,No
+45c933962251db31a599bd43fa172f6f,Fiber optic,Yes,Yes,No,No,No,Yes,Yes
+41c19ab4a7e942d4c6dc3cd4079641cb,DSL,No,No,Yes,Yes,Yes,Yes,Yes
+781f74e2ea33c6a60fc56491e54eb163,DSL,No,No,Yes,Yes,Yes,No,Yes
+17861ca99d77ff60a35683f86491108c,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes
+e9dd0b49e22a23f18e3eb5a57b1d9b70,DSL,No phone service,Yes,No,Yes,No,No,Yes
+398fe20c21e82b4fa588aaba7c5c68b1,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes
+3623c4e8752a89c70398e8e2c6bea0c8,DSL,Yes,No,No,No,No,No,No
+440f4dda9722a60c42187ac4dff524fe,DSL,No,No,No,Yes,No,Yes,Yes
+99635be7a9b9ab74a5d7a9c6000b60e9,DSL,Yes,Yes,No,Yes,No,No,Yes
+d6015d83bb29c9d3760b4153a7913e51,DSL,No,No,No,Yes,Yes,No,Yes
+901748ca186c1de1c42cbdd75758ce12,Fiber optic,Yes,Yes,Yes,No,No,No,Yes
+07dfe90ce70b25d2b3ddd0b75f3d92a9,DSL,Yes,No,No,Yes,Yes,No,Yes
+1677bdedc2fec61d6f87f6272ea582ac,Fiber optic,No,Yes,No,Yes,No,No,Yes
+44e2e5353710ff124fee20f178c39a18,DSL,No phone service,No,No,No,Yes,Yes,No
+82bfa7c5f0ba66fc7d2908fa93a3bd53,DSL,Yes,Yes,No,Yes,Yes,Yes,No
+ea6c343374edd3796a27632fa4a455b9,DSL,Yes,No,Yes,Yes,No,Yes,No
+767822ae61ae5b3c8102e7a2eb857f94,DSL,No,No,No,Yes,No,Yes,No
+19b878a37241ae57550d44af04ccc50d,DSL,Yes,No,Yes,No,No,Yes,No
+c7432cc994aa93255da5614eb4c4cc80,DSL,No phone service,No,No,Yes,Yes,No,No
+8f5e874417984dd2769dd873f9e8eaeb,Fiber optic,Yes,Yes,No,No,No,No,Yes
+8836d86702fb1a72d0287a5b25fa548b,DSL,No phone service,Yes,No,No,No,No,Yes
+2016083aaefb7f77d568778796e497be,Fiber optic,No,No,No,No,No,No,No
+e02018f1c8f162253db0b5565a6dfb08,DSL,No phone service,Yes,No,No,No,No,No
+890c683ba81a6f58fc77ef29ba7453b0,DSL,No,No,No,No,No,No,Yes
+9979cc28e44614ceda3024d2841b9c9e,Fiber optic,No,No,Yes,Yes,Yes,Yes,Yes
+10d284e33ddebf416db346cc99e96441,DSL,No phone service,Yes,Yes,Yes,No,Yes,Yes
+ff75f56807cd07e444c6fbadbab0ef10,Fiber optic,No,No,No,Yes,Yes,No,Yes
+4f8903948bbee08ab35171b137341625,Fiber optic,No,Yes,No,No,Yes,No,Yes
+a26c8869ec91cbddcfde0461e55d986f,Fiber optic,Yes,No,No,No,Yes,Yes,No
+66b864fb9dda9a84b758f34a4dcf42a8,DSL,No,No,Yes,No,Yes,No,No
+7c60005412cd3d92c62ad34e2e6829f2,DSL,Yes,Yes,Yes,Yes,No,No,No
+eee738c65c8c028bcb77835db9584f2b,Fiber optic,Yes,No,Yes,Yes,No,No,No
+b900af27c4c54edd0db75ceb7aca3a29,Fiber optic,Yes,No,No,Yes,Yes,No,No
+d504c527d5bfad699d5fa0ae33f3cfba,DSL,No,No,No,Yes,Yes,Yes,No
+b9882a3d4f20178503a526455e1ae038,Fiber optic,Yes,Yes,Yes,No,Yes,No,No
+a861b232bc400dbd749ad1ae47a64070,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,No
+dc067a9ac44820d41477e3c18f7a1c6c,DSL,Yes,Yes,No,Yes,Yes,No,Yes
+5b7c4e10b66800dd77d3edd7e0de0707,Fiber optic,No,Yes,No,No,No,Yes,No
+262b9621c8e7fe7de71d8d6da7c4a141,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,No
+e2127fa48785f893ca940b30c668604a,DSL,Yes,No,Yes,No,Yes,Yes,No
+b9932227b2041e0e3eaeb9452355421d,DSL,Yes,No,Yes,Yes,Yes,No,No
+0fc4fabba6b2cd7e2def5900d8c80500,DSL,No phone service,No,Yes,No,No,No,No
+13c3ed9501f6e8886d706b58e91254e1,Fiber optic,No,No,Yes,Yes,No,No,Yes
+875e414f787083b9abf8ae6959dd34cf,DSL,No phone service,No,No,Yes,No,No,Yes
+3c6278d153568ef74d28d461acbf0498,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,No
+d15838ffa6d21d1aa6cdb68a5d948060,DSL,No phone service,Yes,No,No,No,Yes,Yes
+02637b5d03f83b87113a78ea3dd9a5ad,DSL,No,Yes,No,No,No,Yes,No
+06ce9f30dab2283e9a5c9223277b9c92,DSL,No phone service,No,No,No,No,No,No
+2a8e3b4e77739bbf0b2a63f48c9ac1bc,Fiber optic,Yes,Yes,Yes,No,No,Yes,No
+dee86a8457e8df05d68d42cb77a23990,DSL,No,Yes,No,Yes,Yes,No,No
+e332152a0da233c2b117a51c0f9b1fe6,DSL,No phone service,No,No,No,No,No,Yes
+1957c6886826acd6364d680af694b0b4,DSL,Yes,Yes,No,No,Yes,No,Yes
+d223e87a54dfd488dc1253757c0adbc8,Fiber optic,No,Yes,No,Yes,Yes,No,No
+bd977424d7168869e99159565284c9f4,DSL,No,Yes,No,Yes,No,Yes,Yes
+5b6a39f6229a792ab465d182a8d0852d,Fiber optic,No,No,Yes,No,No,No,No
+45b8325e66c25c6a0615de0a0146c68c,DSL,No phone service,Yes,No,No,No,Yes,No
+8e99f6920d75ff25afebadc7f5025059,Fiber optic,Yes,No,Yes,Yes,Yes,No,No
+65f4522cbfbd62913836a8956fd43336,DSL,No phone service,No,No,Yes,Yes,Yes,No
+7d4a433e2dbe035d8732df9e83ae73cb,Fiber optic,Yes,No,No,No,Yes,No,No
+290d99d41f37bea9714d6ff2ea09a53e,DSL,Yes,No,No,No,No,No,Yes
+354ca16f259d68db0089152de63ad418,Fiber optic,No,No,No,Yes,Yes,Yes,Yes
+edb10437c8ebecb282c9565a82a376bc,DSL,Yes,Yes,Yes,No,Yes,No,Yes
+037a0a1236b47cdd03362617a01d7cbf,DSL,Yes,No,Yes,Yes,No,Yes,Yes
+f503780cf317a601c883a88d38cb806e,DSL,No phone service,Yes,Yes,No,Yes,No,No
+7c4a5019f1db9b3abd1e61bec369764b,DSL,Yes,Yes,Yes,No,No,Yes,Yes
+40f20563fbf461043503386871ce33df,DSL,No,Yes,No,Yes,Yes,Yes,No
+08aef91e5a2921982c26de592bb8f44c,DSL,Yes,Yes,Yes,Yes,Yes,No,Yes
+dd9a2dc234142bd8981d81c5c993f4e8,DSL,No,No,Yes,No,No,No,Yes
+a67fc310789c77b4f057c04a7060b3b8,DSL,Yes,No,No,No,Yes,Yes,No
+9beadb8bab896f98a12530fa5a055959,DSL,Yes,No,No,Yes,Yes,No,No
+3bac678b70cb93af870fbc3ab3c9e299,DSL,No phone service,No,Yes,Yes,Yes,Yes,No
+a94d1fadc23bb0de6a9a4e514f4807e4,DSL,Yes,Yes,Yes,Yes,No,Yes,No
+ab1d2275508bd6a44821b53970873657,Fiber optic,No,Yes,Yes,No,Yes,No,No
+2cebe6c4ec9ed966d44dcb0f5ed3c327,DSL,No,No,Yes,Yes,No,No,Yes
+5eb521bd7370413d387aa90292d6f2fd,DSL,No phone service,No,No,Yes,No,Yes,No
+19d7330e95b9d614d21a1c94125fe352,Fiber optic,No,Yes,No,Yes,Yes,Yes,No
+37fd549cb6fddc2d7e644cc5b5ed0dd7,DSL,No,No,No,No,No,No,No
+4d994cf4b3984fc143107dd35936167e,DSL,Yes,Yes,No,No,Yes,Yes,Yes
+5079a18a4d61de2c6baa2c966a0cffb7,DSL,Yes,Yes,No,No,Yes,Yes,No
+e533adbb4769647431e0f1bbb9ac1c13,DSL,No,Yes,Yes,Yes,Yes,No,Yes
+bc11d315741b83d1b64d093fd53ce6bf,Fiber optic,No,Yes,No,Yes,No,No,No
+01058f447dc1f8ad84e74fc2765d52b6,DSL,No,Yes,No,No,Yes,No,Yes
+b662fb228972283f006374a651514e51,DSL,No phone service,No,Yes,Yes,No,Yes,No
+f314e9d4359b2cbe324524d9fb44c930,DSL,No,Yes,No,Yes,No,Yes,No
+f12bc7d37bd5246c87803873a5791378,DSL,No phone service,Yes,Yes,Yes,Yes,No,Yes
+b0fae74c4db1b42ea36cdc2047a17f52,Fiber optic,No,Yes,Yes,No,Yes,No,Yes
+247b4eaa0a14d445301f52fa48176923,DSL,Yes,Yes,No,No,No,No,No
+34dde18adebe59b9975798b8d89f1358,Fiber optic,No,No,Yes,No,Yes,Yes,Yes
+a86ec1315f0804c7ecf28de78c8b2d2f,DSL,Yes,No,No,No,Yes,No,Yes
+68391d9c465fd719b55b00a07017adce,DSL,Yes,No,Yes,Yes,Yes,Yes,No
+8f80d89952e67068c1fa83fb824dc423,Fiber optic,No,Yes,No,Yes,No,Yes,Yes
+d9c544eeba46157235e25e3abbd572f6,DSL,No,No,Yes,Yes,No,Yes,Yes
+4aa56159ab68a25cef1ab2d6c28c7a54,DSL,No,No,No,No,Yes,No,Yes
+f906887b015950265f5538db77a89791,DSL,Yes,No,Yes,Yes,No,No,No
+0cd29c97cb571d1c45243419b036435c,DSL,No phone service,Yes,No,Yes,No,Yes,No

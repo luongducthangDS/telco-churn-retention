@@ -1,0 +1,25 @@
+contract_id,contract_type,has_paperless_billing,payment_method
+942dd77b30b528d14a519075f6fffec0,Two year,false,Bank transfer (automatic)
+e9db1c05385e78b673fb46fff9972c9d,One year,true,Electronic check
+0d91c006811ec54606a78c3bfc70006f,Two year,false,Mailed check
+f8671504de596c59b076f52ec1042c37,One year,false,Mailed check
+3ac679cf6fa2f1eb24aa6e758be19a00,Two year,true,Credit card (automatic)
+61581fbfdfb5a009620937f3a05f9fc8,Two year,true,Electronic check
+673ef56eecd1d4d266dd77157b68832e,Two year,true,Bank transfer (automatic)
+e6ed063935b502d689e16389d601bb10,One year,false,Bank transfer (automatic)
+b6ca13f2ce50b237d33fdd4b7aa86693,One year,true,Mailed check
+10d09c002ce6d1b92364e1a7f46872ac,Month-to-month,false,Mailed check
+eeab2ccbc2640549e583c8c921a4a1a0,Month-to-month,false,Bank transfer (automatic)
+4b65eae6eb004a20910bbb996b6bddd8,Two year,false,Electronic check
+c6dcfdb3db58516b013eeef71e1b94a8,Month-to-month,true,Credit card (automatic)
+12273fb580a057c5ebdd768a6f47ee5b,One year,false,Credit card (automatic)
+c4a837d80719fde0e9b8dbd1529acc1c,One year,true,Credit card (automatic)
+68d3ac5e02595133f06eedba0e9d249f,Month-to-month,true,Mailed check
+0e0b13f3a8188847497e05e4c2d6947f,Month-to-month,false,Credit card (automatic)
+e91ac1f7788b99431d79c388eda211a7,One year,true,Bank transfer (automatic)
+0adb2b74421e973cc2ed6c1baf35a453,One year,false,Electronic check
+f3390f569f0436a0458bda64e4a4138c,Month-to-month,false,Electronic check
+a3b807bef261e5119e4e45103e24d4bd,Two year,false,Credit card (automatic)
+0b304dad3efd4e70023a4b88463f9260,Two year,true,Mailed check
+45ef081c31596b9aea8f1034fcb67280,Month-to-month,true,Electronic check
+6660fb2aef99daed8cb26a3fe94ddedd,Month-to-month,true,Bank transfer (automatic)

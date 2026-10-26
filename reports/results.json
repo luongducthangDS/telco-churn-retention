@@ -1,0 +1,177 @@
+{
+  "kpis": {
+    "total_subscribers": 7043,
+    "churned_subscribers": 1869,
+    "churn_rate_pct": 26.54,
+    "total_mrr": 456116.6,
+    "lost_mrr": 139130.85,
+    "lost_mrr_pct": 30.5,
+    "avg_monthly_arpu": 64.76,
+    "avg_tenure_months": 32.4
+  },
+  "tenure_cohorts": [
+    {
+      "tenure_cohort": "01. 0-6M (Onboarding Cliff)",
+      "subscribers": 1481,
+      "churned": 784,
+      "churn_rate_pct": 52.94,
+      "mrr": 81067.95,
+      "lost_mrr": 49896.1
+    },
+    {
+      "tenure_cohort": "02. 7-12M (Early Life)",
+      "subscribers": 705,
+      "churned": 253,
+      "churn_rate_pct": 35.89,
+      "mrr": 41561.8,
+      "lost_mrr": 19058.15
+    },
+    {
+      "tenure_cohort": "03. 13-24M (Maturing)",
+      "subscribers": 1024,
+      "churned": 294,
+      "churn_rate_pct": 28.71,
+      "mrr": 62829.85,
+      "lost_mrr": 23081.65
+    },
+    {
+      "tenure_cohort": "04. 25-48M (Established)",
+      "subscribers": 1594,
+      "churned": 325,
+      "churn_rate_pct": 20.39,
+      "mrr": 105093.3,
+      "lost_mrr": 27462.5
+    },
+    {
+      "tenure_cohort": "05. 49+M (Loyal Champions)",
+      "subscribers": 2239,
+      "churned": 213,
+      "churn_rate_pct": 9.51,
+      "mrr": 165563.7,
+      "lost_mrr": 19632.45
+    }
+  ],
+  "contracts": [
+    {
+      "contract_type": "Month-to-month",
+      "subscribers": 3875,
+      "churn_rate_pct": 42.71,
+      "lost_mrr": 120847.1
+    },
+    {
+      "contract_type": "One year",
+      "subscribers": 1473,
+      "churn_rate_pct": 11.27,
+      "lost_mrr": 14118.45
+    },
+    {
+      "contract_type": "Two year",
+      "subscribers": 1695,
+      "churn_rate_pct": 2.83,
+      "lost_mrr": 4165.3
+    }
+  ],
+  "fiber_techsupport_interaction": [
+    {
+      "internet_service": "DSL",
+      "has_tech_support": true,
+      "subscribers": 1178,
+      "avg_monthly_fee": 65.61,
+      "churn_rate_pct": 9.68,
+      "lost_mrr": 6720.2
+    },
+    {
+      "internet_service": "DSL",
+      "has_tech_support": false,
+      "subscribers": 1243,
+      "avg_monthly_fee": 50.98,
+      "churn_rate_pct": 27.76,
+      "lost_mrr": 15809.0
+    },
+    {
+      "internet_service": "Fiber optic",
+      "has_tech_support": true,
+      "subscribers": 866,
+      "avg_monthly_fee": 101.18,
+      "churn_rate_pct": 22.63,
+      "lost_mrr": 19399.25
+    },
+    {
+      "internet_service": "Fiber optic",
+      "has_tech_support": false,
+      "subscribers": 2230,
+      "avg_monthly_fee": 87.74,
+      "churn_rate_pct": 49.37,
+      "lost_mrr": 94900.8
+    }
+  ],
+  "payments": [
+    {
+      "payment_method": "Electronic check",
+      "subscribers": 2365,
+      "churn_rate_pct": 45.29
+    },
+    {
+      "payment_method": "Mailed check",
+      "subscribers": 1612,
+      "churn_rate_pct": 19.11
+    },
+    {
+      "payment_method": "Bank transfer (automatic)",
+      "subscribers": 1544,
+      "churn_rate_pct": 16.71
+    },
+    {
+      "payment_method": "Credit card (automatic)",
+      "subscribers": 1522,
+      "churn_rate_pct": 15.24
+    }
+  ],
+  "logistic_odds_ratios": [
+    {
+      "feature": "Month-to-month Contract",
+      "odds_ratio": 2.904,
+      "ci_95_pct": [
+        2.401,
+        3.513
+      ],
+      "interpretation": "Increases churn risk"
+    },
+    {
+      "feature": "Fiber Optic Internet",
+      "odds_ratio": 3.818,
+      "ci_95_pct": [
+        3.325,
+        4.384
+      ],
+      "interpretation": "Increases churn risk"
+    },
+    {
+      "feature": "Tech Support Active",
+      "odds_ratio": 0.835,
+      "ci_95_pct": [
+        0.712,
+        0.979
+      ],
+      "interpretation": "Reduces churn risk (Protective)"
+    },
+    {
+      "feature": "Electronic Check Payment",
+      "odds_ratio": 1.813,
+      "ci_95_pct": [
+        1.59,
+        2.066
+      ],
+      "interpretation": "Increases churn risk"
+    },
+    {
+      "feature": "Tenure (Years)",
+      "odds_ratio": 0.704,
+      "ci_95_pct": [
+        0.673,
+        0.737
+      ],
+      "interpretation": "Reduces churn risk (Protective)"
+    }
+  ]
+}
