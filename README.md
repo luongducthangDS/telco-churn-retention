@@ -76,30 +76,38 @@
     * *Thanh toán Electronic Check:* **OR = 1.68x** (95% CI: $[1.45, 1.94]$, $p < 0.001$).
     * *Tenure (Mỗi 12 tháng gắn bó):* **OR = 0.68x** (Giảm 32% nguy cơ rời bỏ).
 
+![Logistic Regression Odds Ratios Forest Plot](reports/figures/03_logistic_odds_ratios_forest.png)
+
 ---
 
 # GIAI ĐOẠN 3 — INSIGHTS & STORYTELLING
 
 ### 07. Findings & Root Cause Analysis
 1. **Vực thẳm Onboarding kinh hoàng (The Onboarding Cliff):** Có tới **50.8% tổng số ca rời mạng xảy ra ngay trong 6 tháng đầu tiên**! Churn rate nhóm 0–6 tháng lên tới **53.1%**. Tuy nhiên, nếu khách hàng vượt qua được cột mốc 24 tháng, tỷ lệ Churn giảm ngoạn mục xuống dưới 10%.
+
+![The Onboarding Tenure Cliff](reports/figures/01_onboarding_tenure_cliff.png)
+
 2. **Hiệu ứng bảo vệ của Hỗ trợ Kỹ thuật (The Protective Tech Support Effect):**
-   * Thuê bao sử dụng Cáp quang (Fiber Optic) nhưng **KHÔNG có gói Hỗ trợ Kỹ thuật (Tech Support)** có tỷ lệ Churn lên tới **49.38%**!
-   * Tuy nhiên, cũng là thuê bao dùng Fiber Optic đó, nếu **CÓ gói Tech Support đi kèm**, tỷ lệ Churn lập tức giảm hơn một nửa xuống chỉ còn **22.78%**!
+   * Thuê bao sử dụng Cáp quang (Fiber Optic) nhưng **KHÔNG có gói Hỗ trợ Kỹ thuật (Tech Support)** có tỷ lệ Churn lên tới **49.4%**!
+   * Tuy nhiên, cũng là thuê bao dùng Fiber Optic đó, nếu **CÓ gói Tech Support đi kèm**, tỷ lệ Churn lập tức giảm hơn một nửa xuống chỉ còn **22.6%** (giảm sút ngoạn mục **-26.8 điểm phần trăm**)!
+
+![The Protective Shield Tech Support Interaction](reports/figures/02_fiber_techsupport_interaction.png)
+
 3. **Phá vỡ ngộ nhận về giá cước:** Khách hàng không hề rời bỏ vì tốc độ mạng chậm hay giá cước $70 đắt. Họ rời bỏ vì khi chuyển sang công nghệ cáp quang mới, họ gặp trục trặc kỹ thuật ban đầu (cấu hình Router, vùng phủ sóng Wi-Fi trong nhà) mà không có sự đồng hành của kỹ thuật viên, dẫn đến bức xúc và hủy hợp đồng ngay trong tháng đầu!
 4. **Trải nghiệm nạp tiền gây Churn:** Phương thức thanh toán Electronic Check có tỷ lệ churn lên tới **45.3%** (so với thanh toán tự động qua thẻ tín dụng chỉ 15.2%) do khách hàng phải nhớ hạn nạp tiền thủ công mỗi tháng và gặp lỗi xử lý cổng thanh toán.
 
 ### 08. Data Visualization & Dashboard Features
-* **Visual 1 (Tenure Cohort Cliff):** Biểu đồ thể hiện tỷ lệ Churn sụp đổ từ 53.1% (tháng 0–6) xuống còn 7.1% (tháng 49–72).
-* **Visual 2 (Contract Comparison Bar):** So sánh tỷ lệ Churn giữa Month-to-Month (42.7%) vs Hợp đồng 1 năm (11.3%) vs Hợp đồng 2 năm (2.8%).
-* **Visual 3 (Interaction Heatmap):** Ma trận tương tác giữa Fiber Optic và Tech Support làm nổi bật khoảng cách chênh lệch 26.6 pp.
-* **Visual 4 (Forest Plot Odds Ratios):** Biểu đồ thể hiện rủi ro tương đối của các nhân tố đi kèm khoảng tin cậy 95% $p < 0.001$.
+* **Visual 1 (Tenure Cohort Cliff):** Biểu đồ thể hiện tỷ lệ Churn sụp đổ từ 53.1% (tháng 0–6) xuống còn 7.1% (tháng 49–72) (`reports/figures/01_onboarding_tenure_cliff.png`).
+* **Visual 2 (Fiber x Support Interaction Matrix):** So sánh tỷ lệ Churn giữa Fiber Optic có vs không có Tech Support (`reports/figures/02_fiber_techsupport_interaction.png`).
+* **Visual 3 (Forest Plot Odds Ratios):** Biểu đồ thể hiện rủi ro tương đối của các nhân tố đi kèm khoảng tin cậy 95% $p < 0.001$ (`reports/figures/03_logistic_odds_ratios_forest.png`).
+* **Visual 4 (Executive Cockpit):** Tổng thể bức tranh Churn qua bộ chỉ số P&L và giải pháp can thiệp (`reports/figures/00_dashboard_preview.png`).
 
 ### 09. Standardized 5-Step Storytelling
 
 #### Câu chuyện 1: Giải mã điểm rơi Onboarding và bài toán giá cước cáp quang
 * **1. Question:** Có phải khách hàng rời bỏ dịch vụ cáp quang là do giá cước $70–$100/tháng quá đắt so với đối thủ?
 * **2. Evidence:** Thuê bao Fiber Optic có tỷ lệ Churn 41.9%, cao hơn rất nhiều so với cáp đồng DSL (19.0%). Nhưng 50.8% ca Churn lại dồn hết vào 6 tháng đầu.
-* **3. Investigation:** Khi bóc tách lớp dịch vụ đi kèm: Thuê bao Fiber Optic có Tech Support chỉ Churn 22.78%; trong khi Fiber Optic không có Tech Support Churn lên tới 49.38%!
+* **3. Investigation:** Khi bóc tách lớp dịch vụ đi kèm: Thuê bao Fiber Optic có Tech Support chỉ Churn 22.6%; trong khi Fiber Optic không có Tech Support Churn lên tới 49.4%!
 * **4. Insight:** Giả thuyết "giá đắt" hoàn toàn bị bác bỏ. Khách hàng sẵn sàng trả tiền cho gói cước tốc độ cao, nhưng họ bị bỏ rơi khi gặp sự cố cài đặt Router và chập chờn Wi-Fi trong tuần đầu tiên.
 * **5. Action:** Tuyệt đối không giảm giá cước; tự động đóng gói miễn phí 90 ngày hỗ trợ kỹ thuật chuyên biệt cho mọi hợp đồng Fiber Optic mới.
 
